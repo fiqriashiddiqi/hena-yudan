@@ -14,7 +14,7 @@
 	</script>
 
 	<script>var et_site_url='https://ngantenstory.com/';var et_post_id='41900';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
-</script><title>Hena & Yudan</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800%7CCabin%3Aregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%7CPacifico%3Aregular%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSacramento%3Aregular%7CBilbo%20Swash%20Caps%3Aregular%7CPhilosopher%3Aregular%2Citalic%2C700%2C700italic%7CAbril%20Fatface%3Aregular%7CPlayfair%20Display%3Aregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7CAlike%20Angular%3Aregular%7CCabin%3Aregular%2C500%2C600%2C700%2Citalic%2C500italic%2C600italic%2C700italic%7CPacifico%3Aregular%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSacramento%3Aregular%7CBilbo%20Swash%20Caps%3Aregular%7CPhilosopher%3Aregular%2Citalic%2C700%2C700italic%7CAbril%20Fatface%3Aregular%7CPlayfair%20Display%3Aregular%2C500%2C600%2C700%2C800%2C900%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CAlike%20Angular%3Aregular&#038;subset=latin%2Clatin-ext&#038;display=swap" />
+</script><title>Henna & Yudhan</title><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800%7CCabin%3Aregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%7CPacifico%3Aregular%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSacramento%3Aregular%7CBilbo%20Swash%20Caps%3Aregular%7CPhilosopher%3Aregular%2Citalic%2C700%2C700italic%7CAbril%20Fatface%3Aregular%7CPlayfair%20Display%3Aregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7CAlike%20Angular%3Aregular%7CCabin%3Aregular%2C500%2C600%2C700%2Citalic%2C500italic%2C600italic%2C700italic%7CPacifico%3Aregular%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSacramento%3Aregular%7CBilbo%20Swash%20Caps%3Aregular%7CPhilosopher%3Aregular%2Citalic%2C700%2C700italic%7CAbril%20Fatface%3Aregular%7CPlayfair%20Display%3Aregular%2C500%2C600%2C700%2C800%2C900%2Citalic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CAlike%20Angular%3Aregular&#038;subset=latin%2Clatin-ext&#038;display=swap" />
 <script id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":false,"sys":[]};!function(){"use strict";!function(){window.DiviArea=window.DiviPopup={loaded:!1};var n=window.DiviArea,i=n.Hooks={},t={};function o(n,i,o){var e,r,c;if("string"==typeof n)if(t[n]){if(i)if((e=t[n])&&o)for(c=e.length;c--;)(r=e[c]).callback===i&&r.context===o&&(e[c]=!1);else for(c=e.length;c--;)e[c].callback===i&&(e[c]=!1)}else t[n]=[]}function e(n,i,o,e){if("string"==typeof n){var r={callback:i,priority:o,context:e},c=t[n];c?(c.push(r),c=function(n){var i,t,o,e,r=n.length;for(e=1;e<r;e++)for(i=n[e],t=e;t>0;t--)(o=n[t-1]).priority>i.priority&&(n[t]=o,n[t-1]=i);return n}(c)):c=[r],t[n]=c}}function r(n,i,o){var e,r;for("string"==typeof i&&(i=[i]),e=0;e<i.length;e++){var c=t[i[e]],f=!1,a=void 0;if(c){var l=c.length;for(r=0;r<l;r++)if(c[r])if("filter"===n)void 0!==(a=c[r].callback.apply(c[r].context,o))&&(o[0]=a);else{if(!c[r]||"function"!=typeof c[r].callback)return!1;c[r].callback.apply(c[r].context,o)}else f=!0;if(f)for(r=l;r--;)c[r]||c.splice(r,1)}}if("filter"===n)return o[0]}i.silent=function(){return i},n.removeFilter=i.removeFilter=function(n,i){o(n,i)},n.removeAction=i.removeAction=function(n,i){o(n,i)},n.applyFilters=i.applyFilters=function(n){for(var i=[],t=arguments.length-1;t-- >0;)i[t]=arguments[t+1];return r("filter",n,i)},n.doAction=i.doAction=function(n){for(var i=[],t=arguments.length-1;t-- >0;)i[t]=arguments[t+1];r("action",n,i)},n.addFilter=i.addFilter=function(n,i,t,o){e(n,i,parseInt(t||10,10),o||window)},n.addAction=i.addAction=function(n,i,t,o){e(n,i,parseInt(t||10,10),o||window)},n.addActionOnce=i.addActionOnce=function(n,i,t,r){e(n,i,parseInt(t||10,10),r||window),e(n,(function(){o(n,i)}),1+parseInt(t||10,10),r||window)}}()}();
 </script><link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
@@ -142,7 +142,7 @@ jQuery(function($){
 				
 				<div class="et_pb_text_inner"><h2>Undangan Pernikahan</h2>
 <p>&nbsp;</p>
-<h1>Hena &amp; Yudan</h1>
+<h1>Henna &amp; Yudhan</h1>
 <p>&nbsp;</p></div>
 			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
 				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_0 et_animated et_pb_bg_layout_light" href="#" data-icon="&#xe089;">Buka Undangan</a>
@@ -201,7 +201,7 @@ jQuery(function($){
 				<div class="et_pb_blurb_content">
 					
 					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span>Hena & Yudan</span></h4>
+						<h4 class="et_pb_module_header"><span>Henna & Yudhan</span></h4>
 						<div class="et_pb_blurb_description"><p style="text-align: center;">21 JANUARI 2021</p></div>
 
 						<!-- <a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/u/0?cid=ZjAxOWhqdDZtZWpicGVzZ2tiZTg4cGVqa2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" style="background-color: #8d8780;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a> -->
@@ -324,7 +324,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Akad Nikah</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Kamis, 21 januari 21<br> 08.00 s/d 09.00 WIB<br> <strong>Hotel Zambrud Convention Hall </strong><br> Jl. Dr. Wahidin Sudirohusodo No. 46-A, <br> Kota Cirebon, Jawa Barat 45122</p>
+							<p>Kamis, 21 januari 21<br> 08.00 s/d 09.00 WIB<br> <strong>Hotel Zamrud Convention Hall </strong><br> Jl. Dr. Wahidin Sudirohusodo No. 46-A, <br> Kota Cirebon, Jawa Barat 45122</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
@@ -340,7 +340,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Masjid Hijau Grage City Mall <br> <span>11.00 s/d 13.30 WIB</span><br> <strong>Hotel Zambrud Convention Hall</strong><br> Jl. Dr. Wahidin Sudirohusodo No. 46-A, <br> Kota Cirebon, Jawa Barat 45122</p>
+							<p>Hotel Zamrud Convention Hall <br> <span>11.00 s/d 13.30 WIB</span><br> <strong>Hotel Zamrud Convention Hall</strong><br> Jl. Dr. Wahidin Sudirohusodo No. 46-A, <br> Kota Cirebon, Jawa Barat 45122</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
@@ -512,7 +512,7 @@ jQuery(function($){
 					
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Terima kasih</span></h4>
-						<div class="et_pb_blurb_description"><p>Hena &amp; Yunan</p></div>
+						<div class="et_pb_blurb_description"><p>Henna &amp; Yudhan</p></div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
