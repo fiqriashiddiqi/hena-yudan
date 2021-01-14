@@ -273,7 +273,7 @@ jQuery(function($){
 				
 				<div class="et_pb_text_inner">
 					<h1>Briptu Pratia Yudhantara SH</h1>
-                    <p><strong>Putra dari</strong><br> Bpk. Suherlan<br> &amp; Ibu Sulistia Eka Putri S.Pd / Ibu Nani Rohaeni</p>
+                    <p><strong>Putra dari</strong><br> Bpk. Suherlan / Mayor Caj Mamat Rahmat<br> &amp; Ibu Sulistia Eka Putri S.Pd / Ibu Nani Rohaeni</p>
 				</div>
 			</div> <!-- .et_pb_text -->
 			</div> <!-- .et_pb_column -->
